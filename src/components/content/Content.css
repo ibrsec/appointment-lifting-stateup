@@ -1,0 +1,15 @@
+
+
+.doctor-container .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+     gap: 1rem;
+    flex-wrap: wrap;
+}
+
+@media screen and (max-width:767px){
+    .doctor-container .container{ 
+        justify-content: center;  
+    }
+}
