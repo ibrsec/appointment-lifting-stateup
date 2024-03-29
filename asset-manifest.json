@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/appointment-lifting-stateup/static/css/main.fd473794.css",
+    "main.js": "/appointment-lifting-stateup/static/js/main.5079f5f2.js",
+    "index.html": "/appointment-lifting-stateup/index.html",
+    "main.fd473794.css.map": "/appointment-lifting-stateup/static/css/main.fd473794.css.map",
+    "main.5079f5f2.js.map": "/appointment-lifting-stateup/static/js/main.5079f5f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd473794.css",
+    "static/js/main.5079f5f2.js"
+  ]
+}
